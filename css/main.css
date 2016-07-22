@@ -1,0 +1,8 @@
+.eightball_image {
+	background: url("../images/eightball.jpeg") fixed center center no-repeat;
+	height: 50vh;
+};
+
+#shake {
+	cursor: pointer;
+};
